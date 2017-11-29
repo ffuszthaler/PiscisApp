@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
         mWebView = (WebView) findViewById(R.id.activity_main_webview);
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        mWebView.loadUrl("https://www.google.at");
+        mWebView.loadUrl("https://ffuszthaler.github.io/Piscis/landing.html");
         mWebView.setWebViewClient(new WebViewClient());
     }
 }
