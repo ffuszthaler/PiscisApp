@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Piscis/Piscis.iml" filepath="$PROJECT_DIR$/Piscis/Piscis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PiscisApp.iml" filepath="$PROJECT_DIR$/PiscisApp.iml" />
+      <module fileurl="file://C:\Users\Florian\Desktop\Piscis_app\Piscis\Piscis.iml" filepath="C:\Users\Florian\Desktop\Piscis_app\Piscis\Piscis.iml" />
+      <module fileurl="file://C:\Users\Florian\Desktop\Piscis_app\PiscisApp.iml" filepath="C:\Users\Florian\Desktop\Piscis_app\PiscisApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Piscis_App.iml" filepath="$PROJECT_DIR$/Piscis_App.iml" />
     </modules>
   </component>
 </project>
